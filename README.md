@@ -59,7 +59,16 @@ https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/5%20architect%20s
 
 ![image](https://github.com/user-attachments/assets/8df9db8c-895f-4181-8820-6e1abf546dc0)
 
-## DEMO VIDEO
+## CONTRIBUTING 
 
+Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
 
+## CONTACT
 
+For questions or feedback, reach out at [morev3516@gmail.com].
+
+## How to Customize
+
+1.Replace <Vaishu2004-ux> and <architect-portfolio> with your actual GitHub username and repository name.
+2.Replace [morev3516@gmail.com] with your contact email.
+3.Update image file names and screenshots if they differ.
