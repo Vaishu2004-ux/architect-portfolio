@@ -51,8 +51,9 @@ C.Urban Park & Public Spaces
 
 https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/4%20architect%20ss.png?raw=true
 
+![image](https://github.com/user-attachments/assets/8b2f9ab8-f512-45ee-abb0-89bb6e5f983b)
 
-
+3.CONTACT SECTION
 
 
 
