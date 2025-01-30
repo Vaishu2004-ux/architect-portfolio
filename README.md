@@ -27,8 +27,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-1.INTRODUCTION
+1.INTRODUCTION SECTION
 
 https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/1%20architect%20ss.png?raw=true
+
+![image](https://github.com/user-attachments/assets/40a0290a-1066-41ea-bf22-ea28a1b4fda0)
+
+2.PROJECT SECTION
+
+
+
 
 
