@@ -55,6 +55,6 @@ https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/4%20architect%20s
 
 3.CONTACT SECTION
 
-
+https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/5%20architect%20ss.png?raw=true
 
 
