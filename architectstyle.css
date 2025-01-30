@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h2, h3, h4 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Introduction Section */
+#introduction {
+    background-color: #f8f9fa;
+}
+
+/* Projects Section */
+#projects {
+    background-color: #e9ecef;
+}
+
+.project-image {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .row {
+        margin-bottom: 20px;
+    }
+}
