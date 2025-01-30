@@ -24,3 +24,9 @@ A responsive website showcasing Vaishnavi Raju More's architectural projects, in
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+1.INTRODUCTION
+
+
