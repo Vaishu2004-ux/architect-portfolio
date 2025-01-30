@@ -35,6 +35,11 @@ https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/1%20architect%20s
 
 2.PROJECT SECTION
 
+A.Modern Villas
+
+https://github.com/Vaishu2004-ux/architect-portfolio/blob/main/2%20architect%20ss.png?raw=true
+
+
 
 
 
